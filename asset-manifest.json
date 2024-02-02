@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/EducationWebsite/static/css/main.39eaa40d.css",
+    "main.js": "/EducationWebsite/static/js/main.8ff5a9c3.js",
+    "static/js/787.d4aba7ab.chunk.js": "/EducationWebsite/static/js/787.d4aba7ab.chunk.js",
+    "static/media/11.jpg": "/EducationWebsite/static/media/11.732f6d38ae3043eab61c.jpg",
+    "static/media/1.jpg": "/EducationWebsite/static/media/1.ca33906f4f880c41b3a1.jpg",
+    "static/media/7.jpg": "/EducationWebsite/static/media/7.c58ce57b626fa4c428b0.jpg",
+    "static/media/12.jpg": "/EducationWebsite/static/media/12.742dea27ddbb6fbfd645.jpg",
+    "static/media/9.jpg": "/EducationWebsite/static/media/9.eea97164746faddc7cb0.jpg",
+    "static/media/4.jpg": "/EducationWebsite/static/media/4.492723334703a8aa899e.jpg",
+    "static/media/10.jpg": "/EducationWebsite/static/media/10.6f0acced3efaa2fc35cf.jpg",
+    "static/media/6.jpg": "/EducationWebsite/static/media/6.3cf6372981c9017ff2cd.jpg",
+    "static/media/2.jpg": "/EducationWebsite/static/media/2.fbdd0aad9be8f64a8d17.jpg",
+    "static/media/8.jpg": "/EducationWebsite/static/media/8.789d9776bfb0fa8f05a9.jpg",
+    "static/media/5.jpg": "/EducationWebsite/static/media/5.07311b83ef4a40ce1641.jpg",
+    "static/media/3.jpg": "/EducationWebsite/static/media/3.8823becfd8c28a009914.jpg",
+    "static/media/logo.svg": "/EducationWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EducationWebsite/index.html",
+    "main.39eaa40d.css.map": "/EducationWebsite/static/css/main.39eaa40d.css.map",
+    "main.8ff5a9c3.js.map": "/EducationWebsite/static/js/main.8ff5a9c3.js.map",
+    "787.d4aba7ab.chunk.js.map": "/EducationWebsite/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39eaa40d.css",
+    "static/js/main.8ff5a9c3.js"
+  ]
+}
