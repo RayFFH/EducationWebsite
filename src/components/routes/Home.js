@@ -13,9 +13,14 @@ import heroimage10 from "../../assets/10.jpg"
 //import Destination from "../Destination";
 import Destination from "../Destination"
 import Trip from "../Trip"
-import Footer from "../footer";
+import Footer from "../footer"
+import CarouselCard from "../CarouselCard"
+import "./styles.css"
+
 
 function Home (){
+
+    
     return(
         <>
         <Navbar />
@@ -33,6 +38,12 @@ function Home (){
 
         <Destination/>
         <Trip/>
+        <section id="Thingstodo" className="Thingstodo">
+          <h1>Learning</h1>
+          <div className="carousel-container">
+            <CarouselCard />
+          </div>
+        </section>
         <Footer/>
         </>
 

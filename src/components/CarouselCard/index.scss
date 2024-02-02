@@ -1,0 +1,50 @@
+.carousel-item {
+  position: relative;
+  text-align: center;
+  margin-right:20px;
+}
+
+carousel-container {
+  background-color: #333333; /* Use the desired shade of grey */
+
+}
+
+.card-image {
+  width: 80%;
+  height: auto;
+  max-height: 600px;
+  object-fit: cover;
+  height: 100%;
+}
+
+.card-text {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  color: #ffffff;
+  font-size: 20px; /* Set font size */
+  font-weight: 700;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.slick-prev,
+.slick-next {
+  font-size: 24px;
+  color: #333;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  color: #555;
+}
+
+.carousel-item-wrapper {
+  margin-right: 50px; /* Adjust the value as needed to control the gap */
+}
+
+.card-text-box {
+  text-align: center; /* Center the text box */
+  margin-top: 10px; /* Adjust the value as needed for spacing */
+}
